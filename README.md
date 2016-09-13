@@ -9,7 +9,7 @@ This repository is still under construction. Please try again later.
 
 
 
-#### Installation
+#### Installation (Backend & Database)
 
 
 1. Clone the repo
@@ -24,6 +24,17 @@ This repository is still under construction. Please try again later.
 		$docker run -p 49160:8080 -d bytabo/node-angular2-docker-boilerplate 	
 
 Ready!
+
+
+#### Installation (Frontend with Angular2)
+
+	$cd frontend
+
+	$npm install
+
+	$npm run typings install
+
+	$npm start
 
 
 Powered by [bytabo](http://chenluois.com).
