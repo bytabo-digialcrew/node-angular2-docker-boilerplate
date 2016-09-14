@@ -8,6 +8,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "angular2-websocket": "^0.7.1",
+    "express": "^4.13.3",
+    "socket.io": "1.4.5"
   }
 }
